@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: ci-golang-workflow
+=======
+nane: ci-golang-workflow
+>>>>>>> 07b61e605975bcd2b98133b9dd6ebb1a5549fc6e
 on: [push]
 jobs:
   check-application:
